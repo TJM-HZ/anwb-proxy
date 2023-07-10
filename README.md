@@ -8,7 +8,7 @@ Instead, I opted to create a proxy server using Express. When `/incidents` route
 ANWB incident API, and then sends the response to the requesting party.
 
 ## Installation
-After cloning the repository, use `npm install` to install the dependencies.
+After cloning the repository, `cd` into the anwb-proxy directory and use `npm install` to install the dependencies.
 Afterwards, create a .env file in the root directory. Inside, define the API key and URL as follows:
 
 `PORT=portnumberyouwanttohoston`<br />
